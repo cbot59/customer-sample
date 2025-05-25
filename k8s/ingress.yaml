@@ -23,5 +23,5 @@ spec:
                   number: 9003
   tls:
     - hosts:
-        - k8s.jvm.my.id
+        - cbot.jvm.my.id
       secretName: customer-app-tls
